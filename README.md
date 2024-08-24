@@ -1,0 +1,2 @@
+### Hexlet tests and linter status:
+[![Actions Status](https://github.com/AndreyKuzin2021/ansible-project-76/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/AndreyKuzin2021/ansible-project-76/actions)
